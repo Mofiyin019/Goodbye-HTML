@@ -1,0 +1,16 @@
+h1{
+    color: blue;
+}
+.goodbye{
+    color: pink;
+}
+#Second-goodbye{
+    color: brown;
+}
+h1{
+    border: 10px dashed violet;
+    border-radius: 20px 10px 10px 20px;
+    padding: 10px;
+    margin: 20px;
+    margin-top: 30px;
+}
