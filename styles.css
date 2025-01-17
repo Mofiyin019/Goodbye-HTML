@@ -18,3 +18,9 @@ line{
    padding: 20px; 
    margin: 40px;
 }
+ol{
+    background-image: url(https://th.bing.com/th/id/OIP.zKZE5ragNQSvnQqX4XeeaQHaEo?rs=1&pid=ImgDetMain);
+    background-repeat: no-repeat;
+    background-size: 30% 100%;
+    background-attachment: scroll;
+}
